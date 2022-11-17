@@ -1,0 +1,1 @@
+function func1(){let e=document.getElementById("loota").checked,t=document.getElementById("nimi").value,l=document.getElementById("terkut").value,a=document.getElementById("lista").value;localStorage.setItem("data1",t),localStorage.setItem("data2",e),localStorage.setItem("vitsi",l),localStorage.setItem("valikko",a)}
